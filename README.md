@@ -1,7 +1,7 @@
 ## You can check the website here
 https://musical-blini-0a8944.netlify.app/
-Build using Reactbrick with NextJS and TypeScript 
-Deploy on Netlify
+### Build using Reactbricks with NextJS and TypeScript 
+### Deploy on Netlify
 
 ![image](https://user-images.githubusercontent.com/50020179/184075964-5fb14f64-99ac-4768-8ca0-046b10973621.png)
 
