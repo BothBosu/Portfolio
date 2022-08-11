@@ -1,3 +1,10 @@
+## You can check the website here
+https://musical-blini-0a8944.netlify.app/
+
+## Build using Reactbrick with NextJS and TypeScript
+![image](https://user-images.githubusercontent.com/50020179/184075964-5fb14f64-99ac-4768-8ca0-046b10973621.png)
+
+
 # React Bricks starter with Next.js with Tailwind CSS and React Bricks UI
 
 Kick-start your project with this boilerplate for a complete Next.js website based on [React Bricks](https://reactbricks.com), with both the front-end and admin dashboard.
